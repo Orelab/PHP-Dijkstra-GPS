@@ -1,0 +1,39 @@
+img {
+	width: 50%;
+	vertical-align: top;
+	display: inline-block;
+}
+#theTrip {
+	position: fixed;
+	vertical-align: top;
+	display: inline-block;
+}
+ul {
+	font-family: monospace;
+}
+input {
+	max-width: 50px;
+	text-align: center;
+}
+svg {
+	background: url(plan1.png) no-repeat top left;
+	background-size: contain;
+}
+circle {
+	cursor: pointer;
+}
+line {
+	stroke-width: 8px;
+	stroke-opacity: .7;
+}
+text {
+	cursor: pointer;
+	font-family: "sans-serif";
+	font-size: 14px;
+	font-weight: bold;
+	fill: "red";
+}
+circle {
+	stroke: #fff;
+	stroke-width: 1.5px;
+}
