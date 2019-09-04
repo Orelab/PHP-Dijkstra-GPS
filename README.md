@@ -14,3 +14,8 @@ Comme ce point est particulièrement difficile, voici deux petits indices :
 Quand, c'est fait, faites appel à moi avant de démarrer l'algorithme de définition du chemin le plus court !
 
 ;)
+
+
+# Exemple
+
+![a PHP GPS application](https://github.com/Orelab/PHP-Dijkstra-GPS/blob/master/misc/screenshot.png)
